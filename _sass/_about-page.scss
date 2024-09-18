@@ -1,0 +1,15 @@
+.about {
+    @media(min-width:$lt){
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .cont {
+        margin-bottom: 20px;
+        
+        @media(min-width:$lt){
+            width: 49%;
+        }
+    }
+}

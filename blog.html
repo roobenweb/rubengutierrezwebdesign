@@ -1,0 +1,35 @@
+---
+layout: default
+title: Website Design - Blog Website Technoglogy Control
+permalink: /blog/
+description: Blog About Website Design, Jekyll, WordPress
+---
+
+<!-- Blog Page Header -->
+<div class="cont pd-50">
+  <div class="in-cont">
+    <!-- Blog Title -->
+  <h1>Blog Posts</h1>
+  <!-- Blog TItle Subparagraph -->
+  <p style="max-width:600px;">Here you'll find my daily thoughts and information about what I'm up to. Some of the technologies I write about include Website Design Technologies like WordPress, CSS, HTML, JavaScript, Jekyll, Google Ads and so much more.</p>
+  </div>
+</div>
+
+<!-- Daily Blog Post Section -->
+<ul class="in-cont blog umb-100 green">
+    {% for post in site.tags.daily-post limit:4 %}
+    <!-- Blog Post -->
+    <li class="umb-30 orange">
+      
+        <!-- Title -->
+        <a href="{{ post.url }}"><h2 class="small-text medium">{{ post.title }}</h2></a>
+        <!-- Descritpion -->
+        <div class="post-date umb-30">
+          <span>{{ post.date | date: "%B, %-d %Y" }}</span>
+        </div>
+        <p class="mini-text">{{ post.description }}</p>
+
+        <a class="read-more mini-text"href="{{ post.url }}">Read More</a>
+      </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,29 @@
+body {font-family: "SUSE", sans-serif;}
+// Headings Sizing     // Laptop                                 // Desktop
+h1 {font-size:2.00em;  @media(min-width:$lt){font-size:2.5em;};   @media(min-width:$dt){font-size:2.5em;}}
+h2 {font-size:1.375em; @media(min-width:$lt){font-size:1.675em;}; @media(min-width:$dt){font-size:1.75em;}} 
+h3 {font-size:1.25em;  @media(min-width:$lt){font-size:1.55em;}}
+h4 {font-size:1.125em; @media(min-width:$lt){font-size:1.25em;}}
+
+// Custom Fonts
+.mini-text   {font-size: .75em; @media(min-width:$lt){font-size:.875em;}; }
+.small-text  {font-size: 1em;   @media(min-width:$lt){font-size:1.125em;}; }
+.medium-text {font-size: 1.5em;}
+.large-text  {font-size: 2em;}
+
+// Custom Font Weight 
+.medium {font-weight: 500;}
+.bold   {font-weight: 600}
+
+// tc = Text Color
+.tc-black {color:#000;}
+
+// Headers Styling
+h1,h2,h3,h4 {font-weight: 500;margin-bottom:20px;line-height: 150%;}
+
+// Paragraph 
+p {font-size:1em;line-height:150%;margin-bottom:10px;}
+
+// Giant Title
+.gt {font-size:2.25em; @media(min-width:$lt){font-size:3.000em;}; @media(min-width:$dt){font-size:4em;}} 
+

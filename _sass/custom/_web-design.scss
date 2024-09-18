@@ -1,0 +1,14 @@
+.feat-section {
+    justify-content: space-between;
+
+    @media(min-width:$lt){display: flex;}
+
+    .feat {
+        @media(min-width:$lt){width: 30%;}
+
+        h3 {
+            font-weight: 600;
+            font-size: 20px;
+        }
+    }
+}

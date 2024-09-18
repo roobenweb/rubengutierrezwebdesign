@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-17T23:26:32-07:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Starting to Build Pages and Submitting to Google Search Console</title><link href="http://localhost:4000/2024-09-17/" rel="alternate" type="text/html" title="Starting to Build Pages and Submitting to Google Search Console" /><published>2024-09-17T23:00:00-07:00</published><updated>2024-09-17T23:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-17/"><![CDATA[<p>Things I did today.</p>
+
+<h2 id="pages-that-i-built-today">Pages That I Built Today</h2>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Google Search Console Submitting Contentious]]></summary></entry><entry><title type="html">La Habra California Website Design Services</title><link href="http://localhost:4000/la-habra-california-website-design/" rel="alternate" type="text/html" title="La Habra California Website Design Services" /><published>2024-09-17T14:00:00-07:00</published><updated>2024-09-17T14:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/la-habra-california-website-design/"><![CDATA[<!-- Services Title -->
+<div class="in-cont pd-50">
+    <h1>La Habra Website Design Services</h1>
+    <p>Hello, my name is Ruben Gutierrez and I'm a website designer in the La Habra, California area.
+Are you looking to get some work done on your website? </p>
+</div>
+<!-- Services -->
+<div class="in-cont">
+    <h2>Hello, My name is Ruben And I Provide In the La Habra, California area.</h2>
+    <p>Below are some of the services that I can help you with.</p>
+    <p>If you can completely </p>
+</div>
+<!-- Services -->
+<div class="in-cont row-four">
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Teaching</h3>
+        <p>When you succeed so do I, for that reasons I enjoy providing information for free. Feel Free to reach out to me at rubengutierrezwebdesign@mail.com</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Search Engine Optimization</h3>
+        <p>Make sure your that your La Habra, California Business Get's Found by optimizing your website for search engines.
+        </p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Application Development</h3>
+        <p>Do you need a personal application for your business?</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Teaching</h3>
+        <p>When you succeed so do I, for that reasons I'm willing to </p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Why Have A Website?</h3>
+        <p>Website are very useful tools that can help you get found.</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">WordPress Websites</h3>
+        <p>WordPress website. WordPress optimization.</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Consultation</h3>
+        <p>Consultation controlling creating killed</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Website Design </h3>
+        <p>Not satisfied with the way college controlling</p>
+    </div>
+    <!-- Feature -->
+    <div class="cont pd-50">
+        <h3 class="medium-text">Graphic Design</h3>
+        <p>Bring your services to life with customized graphics. </p>
+    </div>
+</div>]]></content><author><name></name></author><category term="SEO" /><summary type="html"><![CDATA[La Habra, California Website Design Services]]></summary></entry><entry><title type="html">Continuing To Build, Things To Look Forward Too Pagination</title><link href="http://localhost:4000/2024-09-16/" rel="alternate" type="text/html" title="Continuing To Build, Things To Look Forward Too Pagination" /><published>2024-09-16T14:00:00-07:00</published><updated>2024-09-16T14:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-16/"><![CDATA[<p>Working on building more web pages. I’ve been working on a page that displays my services.</p>
+
+<p>Check it out here: <a href="/la-habra-california-website-design/">La Habra Website Design</a></p>
+
+<h2 id="looking-into-pagination">Looking into Pagination</h2>
+<p>I have to look into pagination for the blog updates.</p>
+
+<p>I’m building layouts figuring out how I’m going to structure my rows.</p>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Jekyll Pagination, Building More Template. Creating More Templates Jekyll Pagination]]></summary></entry><entry><title type="html">Adding Layouts &amp;amp; Templates To My Website, Improving My Stylesheet</title><link href="http://localhost:4000/2024-09-13/" rel="alternate" type="text/html" title="Adding Layouts &amp;amp; Templates To My Website, Improving My Stylesheet" /><published>2024-09-13T08:00:00-07:00</published><updated>2024-09-13T08:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-13/"><![CDATA[<p>Adding more templates to my website.</p>
+
+<h2 id="customizing-my-sass-file">Customizing My Sass File</h2>
+<p>I’ve been customizing my CSS classes to focus on building my interface quicker.</p>
+
+<p>I feel like in the past I tended to use a lot of CSS to get my website to look exactly how I wanted but that always 
+made it hard to</p>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Fixing Things, Getting to know my website better. Submitting my website to Google Search Console.]]></summary></entry><entry><title type="html">Getting Familiar With New Website, Submitting Website To Google</title><link href="http://localhost:4000/2024-09-10/" rel="alternate" type="text/html" title="Getting Familiar With New Website, Submitting Website To Google" /><published>2024-09-10T17:00:00-07:00</published><updated>2024-09-10T17:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-10/"><![CDATA[<p>I’m still getting used to this new website.</p>
+
+<h2 id="submitted-my-website-to-google-search-console">Submitted My Website To Google Search Console</h2>
+<p>Today I spent some time making adjustments to my DNS files. In order to get my website on Google faster I’m going to have to add some files that prove that I’m the owner of my domain ‘ruben-gutierrez.com’</p>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Fixing Things, Getting to know my website better. Submitting my website to Google Search Console.]]></summary></entry><entry><title type="html">Writing More Content For My Jekyll Website, Improving the About Me Page</title><link href="http://localhost:4000/2024-09-03/" rel="alternate" type="text/html" title="Writing More Content For My Jekyll Website, Improving the About Me Page" /><published>2024-09-03T17:00:00-07:00</published><updated>2024-09-03T17:00:00-07:00</updated><id>http://localhost:4000/</id><content type="html" xml:base="http://localhost:4000/2024-09-03/"><![CDATA[<p>Today I decided that I’m going to be working on improving the about me page on my site.</p>
+
+<h2 id="changing-to-resume-style-rather-than-a-portfolio-look">Changing to Resume Style Rather Than A Portfolio Look</h2>
+<p>I’m going to be trying to make it look more like a resume than a portfolio, kind of of the same thing but not really.</p>
+
+<h2 id="how-its-changing">How It’s Changing</h2>
+<p>I’m going to really focus on being descriptive about my skill level and what it is exactly I know how to do.</p>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[I'm going to be trying to make it look more like a resume rather than a portfolio, kind of of the same thing but not really.]]></summary></entry><entry><title type="html">Using Porkbun, Jekyll, Github, and Vercel To Build &amp;amp; Deploy My New Website</title><link href="http://localhost:4000/2024-09-01/new-website-using-jekyll-vercel-github/" rel="alternate" type="text/html" title="Using Porkbun, Jekyll, Github, and Vercel To Build &amp;amp; Deploy My New Website" /><published>2024-09-01T15:53:11-07:00</published><updated>2024-09-01T15:53:11-07:00</updated><id>http://localhost:4000/2024-09-01/</id><content type="html" xml:base="http://localhost:4000/2024-09-01/new-website-using-jekyll-vercel-github/"><![CDATA[<!-- What I'm Too -->
+<p>Hello! it’s been a while, I’m back! You’ll find some of the things that I’ve been up too recently.</p>
+
+<h2 id="vercel-jekyll-porkbun-and-github">Vercel, Jekyll, Porkbun, and Github</h2>
+<p>I’m making a new website so I’ve decided to use the technologies above to build it and deploy it.</p>
+
+<h2 id="learning-more-about-dns-files">Learning More About DNS FIles</h2>
+<p>I’ve decided to host DNS files are interesting and a must if you’re ever going to get good at hosting and deploying websites.</p>
+
+<p>I spent some time today learning about TXT files and</p>
+
+<h2 id="interesting-thing-ive-learned-today">Interesting Thing I’ve learned Today</h2>
+<p>Venezuelan Oil powered the tanks that defeated Hitler.</p>]]></content><author><name></name></author><category term="daily-post" /><summary type="html"><![CDATA[Buying my domain from Porkbun deploying my website using Vercel and Github to Deploy my new website. What I'm planning on doing.]]></summary></entry></feed>

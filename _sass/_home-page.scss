@@ -1,0 +1,35 @@
+.home-header {
+    text-align: center;
+    background: rgb(255, 233, 233);
+    padding: 100px 0;
+}
+
+.about-section {
+    .home-about {
+        display: flex;
+        justify-content: space-between;
+        .col {
+
+            @media(min-width:$lt){
+                width: 47%;
+            }
+        } 
+    }
+}
+
+.website-offer {
+    a {text-decoration: none;}
+    .row {
+        .feature-information {
+            max-width: 400px;
+            .cont {
+                .circle {
+                    height: 30px;
+                    width: 30px;
+                    border-radius: 50%;
+                    border: 1px solid black;
+                }
+            }
+        }
+    }
+}
