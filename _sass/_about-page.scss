@@ -1,0 +1,23 @@
+.about {
+   
+
+    .skills {
+        display: flex;
+
+        @media(min-width:700px){
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        div {
+
+            @media(min-width:700px){
+                width: 30%;
+            }
+        }
+       
+    }
+}
+
+
+
